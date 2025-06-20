@@ -1,5 +1,15 @@
 [
   {
+    "id": 26,
+    "title": "Remove Duplicates from Sorted Array",
+    "title_slug": "remove-duplicates-from-sorted-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 917,
     "title": "Reverse Only Letters",
     "title_slug": "reverse-only-letters",
