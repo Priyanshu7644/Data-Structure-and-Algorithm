@@ -21,6 +21,16 @@
     ]
   },
   {
+    "id": 283,
+    "title": "Move Zeroes",
+    "title_slug": "move-zeroes",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 917,
     "title": "Reverse Only Letters",
     "title_slug": "reverse-only-letters",
