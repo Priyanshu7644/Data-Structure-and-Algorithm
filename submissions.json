@@ -10,6 +10,17 @@
     ]
   },
   {
+    "id": 189,
+    "title": "Rotate Array",
+    "title_slug": "rotate-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 917,
     "title": "Reverse Only Letters",
     "title_slug": "reverse-only-letters",
