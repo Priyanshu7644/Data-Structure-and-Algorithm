@@ -10,6 +10,16 @@
     ]
   },
   {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "title_slug": "best-time-to-buy-and-sell-stock",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 136,
     "title": "Single Number",
     "title_slug": "single-number",
