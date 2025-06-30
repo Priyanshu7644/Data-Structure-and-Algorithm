@@ -10,6 +10,17 @@
     ]
   },
   {
+    "id": 73,
+    "title": "Set Matrix Zeroes",
+    "title_slug": "set-matrix-zeroes",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
     "id": 121,
     "title": "Best Time to Buy and Sell Stock",
     "title_slug": "best-time-to-buy-and-sell-stock",
