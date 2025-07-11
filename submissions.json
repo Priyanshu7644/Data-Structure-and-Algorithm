@@ -119,6 +119,16 @@
     ]
   },
   {
+    "id": 1021,
+    "title": "Remove Outermost Parentheses",
+    "title_slug": "remove-outermost-parentheses",
+    "difficulty": "Easy",
+    "skills": [
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 1752,
     "title": "Check if Array Is Sorted and Rotated",
     "title_slug": "check-if-array-is-sorted-and-rotated",
