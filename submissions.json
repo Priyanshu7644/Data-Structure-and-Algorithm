@@ -148,6 +148,17 @@
     ]
   },
   {
+    "id": 1903,
+    "title": "Largest Odd Number in String",
+    "title_slug": "largest-odd-number-in-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 2149,
     "title": "Rearrange Array Elements by Sign",
     "title_slug": "rearrange-array-elements-by-sign",
