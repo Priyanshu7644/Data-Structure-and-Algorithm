@@ -1,5 +1,16 @@
 [
   {
+    "id": 14,
+    "title": "Longest Common Prefix",
+    "title_slug": "longest-common-prefix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String",
+      "Trie"
+    ]
+  },
+  {
     "id": 26,
     "title": "Remove Duplicates from Sorted Array",
     "title_slug": "remove-duplicates-from-sorted-array",

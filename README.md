@@ -6,6 +6,7 @@
 
 | # | Title | Difficulty | Skills |
 |---| ----- | ---------- | ------ |
+| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy | `Array` `String` `Trie` |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | `Array` `Two Pointers` |
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium | `Array` `Hash Table` `Matrix` |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | `Array` `Dynamic Programming` |
