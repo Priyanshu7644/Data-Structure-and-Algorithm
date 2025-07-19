@@ -97,6 +97,16 @@
     ]
   },
   {
+    "id": 205,
+    "title": "Isomorphic Strings",
+    "title_slug": "isomorphic-strings",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 268,
     "title": "Missing Number",
     "title_slug": "missing-number",
