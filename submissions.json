@@ -150,6 +150,16 @@
     ]
   },
   {
+    "id": 876,
+    "title": "Middle of the Linked List",
+    "title_slug": "middle-of-the-linked-list",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 917,
     "title": "Reverse Only Letters",
     "title_slug": "reverse-only-letters",
