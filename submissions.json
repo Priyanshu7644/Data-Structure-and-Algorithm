@@ -117,6 +117,17 @@
     ]
   },
   {
+    "id": 225,
+    "title": "Implement Stack using Queues",
+    "title_slug": "implement-stack-using-queues",
+    "difficulty": "Easy",
+    "skills": [
+      "Design",
+      "Queue",
+      "Stack"
+    ]
+  },
+  {
     "id": 268,
     "title": "Missing Number",
     "title_slug": "missing-number",
