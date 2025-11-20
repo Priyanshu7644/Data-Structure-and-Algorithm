@@ -43,6 +43,17 @@
     ]
   },
   {
+    "id": 90,
+    "title": "Subsets II",
+    "title_slug": "subsets-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 121,
     "title": "Best Time to Buy and Sell Stock",
     "title_slug": "best-time-to-buy-and-sell-stock",
