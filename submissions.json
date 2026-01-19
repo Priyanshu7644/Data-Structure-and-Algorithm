@@ -224,6 +224,18 @@
     ]
   },
   {
+    "id": 1292,
+    "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+    "title_slug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1752,
     "title": "Check if Array Is Sorted and Rotated",
     "title_slug": "check-if-array-is-sorted-and-rotated",
