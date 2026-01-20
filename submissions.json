@@ -275,5 +275,15 @@
       "Simulation",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 3314,
+    "title": "Construct the Minimum Bitwise Array I",
+    "title_slug": "construct-the-minimum-bitwise-array-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation"
+    ]
   }
 ]
