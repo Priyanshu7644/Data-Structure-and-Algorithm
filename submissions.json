@@ -285,5 +285,15 @@
       "Array",
       "Bit Manipulation"
     ]
+  },
+  {
+    "id": 3315,
+    "title": "Construct the Minimum Bitwise Array II",
+    "title_slug": "construct-the-minimum-bitwise-array-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation"
+    ]
   }
 ]
