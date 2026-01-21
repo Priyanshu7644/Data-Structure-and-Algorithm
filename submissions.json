@@ -21,6 +21,17 @@
     ]
   },
   {
+    "id": 48,
+    "title": "Rotate Image",
+    "title_slug": "rotate-image",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
     "id": 73,
     "title": "Set Matrix Zeroes",
     "title_slug": "set-matrix-zeroes",
