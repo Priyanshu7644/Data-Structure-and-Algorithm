@@ -306,5 +306,20 @@
       "Array",
       "Bit Manipulation"
     ]
+  },
+  {
+    "id": 3507,
+    "title": "Minimum Pair Removal to Sort Array I",
+    "title_slug": "minimum-pair-removal-to-sort-array-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Doubly-Linked List",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Linked List",
+      "Ordered Set",
+      "Simulation"
+    ]
   }
 ]
