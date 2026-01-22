@@ -194,6 +194,17 @@
     ]
   },
   {
+    "id": 242,
+    "title": "Valid Anagram",
+    "title_slug": "valid-anagram",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 268,
     "title": "Missing Number",
     "title_slug": "missing-number",
