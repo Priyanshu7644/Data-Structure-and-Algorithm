@@ -161,6 +161,17 @@
     ]
   },
   {
+    "id": 219,
+    "title": "Contains Duplicate II",
+    "title_slug": "contains-duplicate-ii",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 225,
     "title": "Implement Stack using Queues",
     "title_slug": "implement-stack-using-queues",
