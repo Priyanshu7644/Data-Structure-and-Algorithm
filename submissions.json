@@ -366,5 +366,20 @@
       "Ordered Set",
       "Simulation"
     ]
+  },
+  {
+    "id": 3510,
+    "title": "Minimum Pair Removal to Sort Array II",
+    "title_slug": "minimum-pair-removal-to-sort-array-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Doubly-Linked List",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Linked List",
+      "Ordered Set",
+      "Simulation"
+    ]
   }
 ]
