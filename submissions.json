@@ -324,6 +324,17 @@
     ]
   },
   {
+    "id": 1984,
+    "title": "Minimum Difference Between Highest and Lowest of K Scores",
+    "title_slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2095,
     "title": "Delete the Middle Node of a Linked List",
     "title_slug": "delete-the-middle-node-of-a-linked-list",

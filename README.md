@@ -36,6 +36,7 @@
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy | `Array` |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | Medium | `Array` `Greedy` `Sorting` `Two Pointers` |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string) | Easy | `Greedy` `Math` `String` |
+| 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) | Easy | `Array` `Sliding Window` `Sorting` |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | Medium | `Linked List` `Two Pointers` |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | Medium | `Array` `Simulation` `Two Pointers` |
 | 3314 | [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i) | Easy | `Array` `Bit Manipulation` |
