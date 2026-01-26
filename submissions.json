@@ -280,6 +280,16 @@
     ]
   },
   {
+    "id": 1200,
+    "title": "Minimum Absolute Difference",
+    "title_slug": "minimum-absolute-difference",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1292,
     "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
     "title_slug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
