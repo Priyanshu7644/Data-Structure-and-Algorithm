@@ -425,5 +425,16 @@
       "Ordered Set",
       "Simulation"
     ]
+  },
+  {
+    "id": 3651,
+    "title": "Minimum Cost Path with Teleportations",
+    "title_slug": "minimum-cost-path-with-teleportations",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
   }
 ]
