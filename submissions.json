@@ -377,6 +377,18 @@
     ]
   },
   {
+    "id": 2976,
+    "title": "Minimum Cost to Convert String I",
+    "title_slug": "minimum-cost-to-convert-string-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Graph Theory",
+      "Shortest Path",
+      "String"
+    ]
+  },
+  {
     "id": 3314,
     "title": "Construct the Minimum Bitwise Array I",
     "title_slug": "construct-the-minimum-bitwise-array-i",
