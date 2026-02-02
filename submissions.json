@@ -292,6 +292,16 @@
     ]
   },
   {
+    "id": 367,
+    "title": "Valid Perfect Square",
+    "title_slug": "valid-perfect-square",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Math"
+    ]
+  },
+  {
     "id": 485,
     "title": "Max Consecutive Ones",
     "title_slug": "max-consecutive-ones",
