@@ -11,6 +11,7 @@
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy | `Array` `String` `Trie` |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum) | Medium | `Array` `Sorting` `Two Pointers` |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | `Array` `Two Pointers` |
+| 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium | `Array` `Binary Search` |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium | `Array` `Math` `Matrix` |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | `Array` `Hash Table` `Sorting` `String` |
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium | `Array` `Hash Table` `Matrix` |

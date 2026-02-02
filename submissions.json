@@ -51,6 +51,16 @@
     ]
   },
   {
+    "id": 33,
+    "title": "Search in Rotated Sorted Array",
+    "title_slug": "search-in-rotated-sorted-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 48,
     "title": "Rotate Image",
     "title_slug": "rotate-image",
