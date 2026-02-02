@@ -341,6 +341,16 @@
     ]
   },
   {
+    "id": 1011,
+    "title": "Capacity To Ship Packages Within D Days",
+    "title_slug": "capacity-to-ship-packages-within-d-days",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 1021,
     "title": "Remove Outermost Parentheses",
     "title_slug": "remove-outermost-parentheses",
