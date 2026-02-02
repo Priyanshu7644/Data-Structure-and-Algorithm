@@ -291,6 +291,16 @@
     ]
   },
   {
+    "id": 704,
+    "title": "Binary Search",
+    "title_slug": "binary-search",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 876,
     "title": "Middle of the Linked List",
     "title_slug": "middle-of-the-linked-list",
