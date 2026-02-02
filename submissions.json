@@ -30,6 +30,17 @@
     ]
   },
   {
+    "id": 15,
+    "title": "3Sum",
+    "title_slug": "3sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 26,
     "title": "Remove Duplicates from Sorted Array",
     "title_slug": "remove-duplicates-from-sorted-array",
