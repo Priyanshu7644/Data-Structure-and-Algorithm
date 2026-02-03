@@ -321,6 +321,16 @@
     ]
   },
   {
+    "id": 875,
+    "title": "Koko Eating Bananas",
+    "title_slug": "koko-eating-bananas",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 876,
     "title": "Middle of the Linked List",
     "title_slug": "middle-of-the-linked-list",
