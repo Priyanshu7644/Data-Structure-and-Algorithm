@@ -404,6 +404,16 @@
     ]
   },
   {
+    "id": 1539,
+    "title": "Kth Missing Positive Number",
+    "title_slug": "kth-missing-positive-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 1752,
     "title": "Check if Array Is Sorted and Rotated",
     "title_slug": "check-if-array-is-sorted-and-rotated",
