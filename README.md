@@ -19,6 +19,7 @@
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium | `Array` `Hash Table` `Matrix` |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | `Array` `Sorting` `Two Pointers` |
 | 0078 | [Subsets](https://leetcode.com/problems/subsets) | Medium | `Array` `Backtracking` `Bit Manipulation` |
+| 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | Hard | `Array` `Monotonic Stack` `Stack` |
 | 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii) | Medium | `Array` `Backtracking` `Bit Manipulation` |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | `Array` `Dynamic Programming` |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | `String` `Two Pointers` |

@@ -138,6 +138,17 @@
     ]
   },
   {
+    "id": 84,
+    "title": "Largest Rectangle in Histogram",
+    "title_slug": "largest-rectangle-in-histogram",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Monotonic Stack",
+      "Stack"
+    ]
+  },
+  {
     "id": 90,
     "title": "Subsets II",
     "title_slug": "subsets-ii",
