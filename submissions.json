@@ -82,6 +82,19 @@
     ]
   },
   {
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "title_slug": "trapping-rain-water",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Monotonic Stack",
+      "Stack",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 48,
     "title": "Rotate Image",
     "title_slug": "rotate-image",
