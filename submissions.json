@@ -10,6 +10,17 @@
     ]
   },
   {
+    "id": 2,
+    "title": "Add Two Numbers",
+    "title_slug": "add-two-numbers",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 9,
     "title": "Palindrome Number",
     "title_slug": "palindrome-number",
