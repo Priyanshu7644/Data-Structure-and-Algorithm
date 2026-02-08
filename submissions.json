@@ -269,6 +269,16 @@
     ]
   },
   {
+    "id": 206,
+    "title": "Reverse Linked List",
+    "title_slug": "reverse-linked-list",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
     "id": 217,
     "title": "Contains Duplicate",
     "title_slug": "contains-duplicate",
