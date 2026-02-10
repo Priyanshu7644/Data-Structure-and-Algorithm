@@ -404,6 +404,19 @@
     ]
   },
   {
+    "id": 295,
+    "title": "Find Median from Data Stream",
+    "title_slug": "find-median-from-data-stream",
+    "difficulty": "Hard",
+    "skills": [
+      "Data Stream",
+      "Design",
+      "Heap (Priority Queue)",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 347,
     "title": "Top K Frequent Elements",
     "title_slug": "top-k-frequent-elements",
