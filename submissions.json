@@ -151,6 +151,17 @@
     ]
   },
   {
+    "id": 53,
+    "title": "Maximum Subarray",
+    "title_slug": "maximum-subarray",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 73,
     "title": "Set Matrix Zeroes",
     "title_slug": "set-matrix-zeroes",
