@@ -667,6 +667,17 @@
     ]
   },
   {
+    "id": 2461,
+    "title": "Maximum Sum of Distinct Subarrays With Length K",
+    "title_slug": "maximum-sum-of-distinct-subarrays-with-length-k",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 2976,
     "title": "Minimum Cost to Convert String I",
     "title_slug": "minimum-cost-to-convert-string-i",
