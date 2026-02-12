@@ -50,6 +50,7 @@
 | 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | Easy | `Binary Search` `Math` |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |
 | 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | Medium | `Array` `Counting` `Greedy` `Hash Table` `Heap (Priority Queue)` `Sorting` |
+| 0680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | Easy | `Greedy` `String` `Two Pointers` |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | Medium | `Array` `Binary Search` |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | `Linked List` `Two Pointers` |
