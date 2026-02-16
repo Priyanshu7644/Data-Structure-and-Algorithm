@@ -292,6 +292,15 @@
     ]
   },
   {
+    "id": 172,
+    "title": "Factorial Trailing Zeroes",
+    "title_slug": "factorial-trailing-zeroes",
+    "difficulty": "Medium",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 189,
     "title": "Rotate Array",
     "title_slug": "rotate-array",

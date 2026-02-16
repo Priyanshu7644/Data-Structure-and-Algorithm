@@ -33,6 +33,7 @@
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | `Hash Table` `Linked List` `Two Pointers` |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | Medium | `String` `Two Pointers` |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | `Array` `Counting` `Divide and Conquer` `Hash Table` `Sorting` |
+| 0172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | Medium | `Math` |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | Medium | `Array` `Math` `Two Pointers` |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | `Hash Table` `String` |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | `Linked List` `Recursion` |
