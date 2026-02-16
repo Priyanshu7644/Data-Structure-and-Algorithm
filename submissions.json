@@ -553,6 +553,22 @@
     ]
   },
   {
+    "id": 912,
+    "title": "Sort an Array",
+    "title_slug": "sort-an-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bucket Sort",
+      "Counting Sort",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort",
+      "Radix Sort",
+      "Sorting"
+    ]
+  },
+  {
     "id": 917,
     "title": "Reverse Only Letters",
     "title_slug": "reverse-only-letters",

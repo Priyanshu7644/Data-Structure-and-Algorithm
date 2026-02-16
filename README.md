@@ -56,6 +56,7 @@
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | Medium | `Array` `Binary Search` |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | `Linked List` `Two Pointers` |
 | 0907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | Medium | `Array` `Dynamic Programming` `Monotonic Stack` `Stack` |
+| 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array) | Medium | `Array` `Bucket Sort` `Counting Sort` `Divide and Conquer` `Heap (Priority Queue)` `Merge Sort` `Radix Sort` `Sorting` |
 | 0917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | Easy | `String` `Two Pointers` |
 | 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | Medium | `Array` `Divide and Conquer` `Geometry` `Heap (Priority Queue)` `Math` `Quickselect` `Sorting` |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | Medium | `Array` `Binary Search` `Prefix Sum` `Sliding Window` |
