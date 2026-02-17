@@ -42,6 +42,7 @@
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | Easy | `Array` `Hash Table` `Sliding Window` |
 | 0225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | Easy | `Design` `Queue` `Stack` |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | `Design` `Queue` `Stack` |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | Medium | `Binary Tree` `Depth-First Search` `Tree` |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | `Array` `Prefix Sum` |
 | 0239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Hard | `Array` `Heap (Priority Queue)` `Monotonic Queue` `Queue` `Sliding Window` |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Hash Table` `Sorting` `String` |
