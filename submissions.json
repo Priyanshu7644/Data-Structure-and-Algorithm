@@ -217,6 +217,18 @@
     ]
   },
   {
+    "id": 100,
+    "title": "Same Tree",
+    "title_slug": "same-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 110,
     "title": "Balanced Binary Tree",
     "title_slug": "balanced-binary-tree",
