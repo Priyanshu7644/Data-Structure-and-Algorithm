@@ -37,6 +37,7 @@
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | `Array` `Counting` `Divide and Conquer` `Hash Table` `Sorting` |
 | 0172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | Medium | `Math` |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | Medium | `Array` `Math` `Two Pointers` |
+| 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | `Hash Table` `String` |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | `Linked List` `Recursion` |
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium | `Array` `Divide and Conquer` `Heap (Priority Queue)` `Quickselect` `Sorting` |
