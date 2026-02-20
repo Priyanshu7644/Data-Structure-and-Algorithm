@@ -624,6 +624,19 @@
     ]
   },
   {
+    "id": 743,
+    "title": "Network Delay Time",
+    "title_slug": "network-delay-time",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
     "id": 875,
     "title": "Koko Eating Bananas",
     "title_slug": "koko-eating-bananas",
