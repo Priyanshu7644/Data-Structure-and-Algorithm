@@ -553,6 +553,18 @@
     ]
   },
   {
+    "id": 542,
+    "title": "01 Matrix",
+    "title_slug": "01-matrix",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
     "id": 543,
     "title": "Diameter of Binary Tree",
     "title_slug": "diameter-of-binary-tree",
