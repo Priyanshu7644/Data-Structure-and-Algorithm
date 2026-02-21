@@ -281,6 +281,20 @@
     ]
   },
   {
+    "id": 139,
+    "title": "Word Break",
+    "title_slug": "word-break",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Hash Table",
+      "Memoization",
+      "String",
+      "Trie"
+    ]
+  },
+  {
     "id": 141,
     "title": "Linked List Cycle",
     "title_slug": "linked-list-cycle",
