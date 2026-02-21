@@ -798,6 +798,18 @@
     ]
   },
   {
+    "id": 1514,
+    "title": "Path with Maximum Probability",
+    "title_slug": "path-with-maximum-probability",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
     "id": 1539,
     "title": "Kth Missing Positive Number",
     "title_slug": "kth-missing-positive-number",
