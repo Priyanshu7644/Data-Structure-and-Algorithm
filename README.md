@@ -21,6 +21,7 @@
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium | `Array` `Math` `Matrix` |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | `Array` `Hash Table` `Sorting` `String` |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | `Array` `Divide and Conquer` `Dynamic Programming` |
+| 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | `Dynamic Programming` `Math` `Memoization` |
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium | `Array` `Hash Table` `Matrix` |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | `Array` `Sorting` `Two Pointers` |
 | 0078 | [Subsets](https://leetcode.com/problems/subsets) | Medium | `Array` `Backtracking` `Bit Manipulation` |

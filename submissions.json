@@ -162,6 +162,17 @@
     ]
   },
   {
+    "id": 70,
+    "title": "Climbing Stairs",
+    "title_slug": "climbing-stairs",
+    "difficulty": "Easy",
+    "skills": [
+      "Dynamic Programming",
+      "Math",
+      "Memoization"
+    ]
+  },
+  {
     "id": 73,
     "title": "Set Matrix Zeroes",
     "title_slug": "set-matrix-zeroes",
