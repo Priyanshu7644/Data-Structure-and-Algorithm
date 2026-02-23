@@ -674,6 +674,16 @@
     ]
   },
   {
+    "id": 746,
+    "title": "Min Cost Climbing Stairs",
+    "title_slug": "min-cost-climbing-stairs",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 875,
     "title": "Koko Eating Bananas",
     "title_slug": "koko-eating-bananas",
