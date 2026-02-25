@@ -995,6 +995,19 @@
     ]
   },
   {
+    "id": 3411,
+    "title": "Maximum Subarray With Equal Products",
+    "title_slug": "maximum-subarray-with-equal-products",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Math",
+      "Number Theory",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 3507,
     "title": "Minimum Pair Removal to Sort Array I",
     "title_slug": "minimum-pair-removal-to-sort-array-i",
