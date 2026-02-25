@@ -1008,6 +1008,18 @@
     ]
   },
   {
+    "id": 3412,
+    "title": "Find Mirror Score of a String",
+    "title_slug": "find-mirror-score-of-a-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "Simulation",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 3507,
     "title": "Minimum Pair Removal to Sort Array I",
     "title_slug": "minimum-pair-removal-to-sort-array-i",

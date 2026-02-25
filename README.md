@@ -96,6 +96,7 @@
 | 3314 | [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i) | Easy | `Array` `Bit Manipulation` |
 | 3315 | [Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii) | Medium | `Array` `Bit Manipulation` |
 | 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products) | Easy | `Array` `Enumeration` `Math` `Number Theory` `Sliding Window` |
+| 3412 | [Find Mirror Score of a String](https://leetcode.com/problems/find-mirror-score-of-a-string) | Medium | `Hash Table` `Simulation` `Stack` `String` |
 | 3507 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i) | Easy | `Array` `Doubly-Linked List` `Hash Table` `Heap (Priority Queue)` `Linked List` `Ordered Set` `Simulation` |
 | 3510 | [Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii) | Hard | `Array` `Doubly-Linked List` `Hash Table` `Heap (Priority Queue)` `Linked List` `Ordered Set` `Simulation` |
 | 3651 | [Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations) | Hard | `Array` `Dynamic Programming` `Matrix` |
