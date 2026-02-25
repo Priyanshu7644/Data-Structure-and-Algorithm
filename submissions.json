@@ -714,6 +714,18 @@
     ]
   },
   {
+    "id": 877,
+    "title": "Stone Game",
+    "title_slug": "stone-game",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Game Theory",
+      "Math"
+    ]
+  },
+  {
     "id": 907,
     "title": "Sum of Subarray Minimums",
     "title_slug": "sum-of-subarray-minimums",
