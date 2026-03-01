@@ -900,6 +900,16 @@
     ]
   },
   {
+    "id": 1689,
+    "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+    "title_slug": "partitioning-into-minimum-number-of-deci-binary-numbers",
+    "difficulty": "Medium",
+    "skills": [
+      "Greedy",
+      "String"
+    ]
+  },
+  {
     "id": 1752,
     "title": "Check if Array Is Sorted and Rotated",
     "title_slug": "check-if-array-is-sorted-and-rotated",
