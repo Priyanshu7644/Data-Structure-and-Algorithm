@@ -919,6 +919,15 @@
     ]
   },
   {
+    "id": 1758,
+    "title": "Minimum Changes To Make Alternating Binary String",
+    "title_slug": "minimum-changes-to-make-alternating-binary-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 1877,
     "title": "Minimize Maximum Pair Sum in Array",
     "title_slug": "minimize-maximum-pair-sum-in-array",
