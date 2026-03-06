@@ -579,6 +579,16 @@
     ]
   },
   {
+    "id": 416,
+    "title": "Partition Equal Subset Sum",
+    "title_slug": "partition-equal-subset-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 485,
     "title": "Max Consecutive Ones",
     "title_slug": "max-consecutive-ones",
