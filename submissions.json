@@ -928,6 +928,15 @@
     ]
   },
   {
+    "id": 1784,
+    "title": "Check if Binary String Has at Most One Segment of Ones",
+    "title_slug": "check-if-binary-string-has-at-most-one-segment-of-ones",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 1877,
     "title": "Minimize Maximum Pair Sum in Array",
     "title_slug": "minimize-maximum-pair-sum-in-array",
