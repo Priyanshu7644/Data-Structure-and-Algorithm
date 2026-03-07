@@ -959,6 +959,17 @@
     ]
   },
   {
+    "id": 1888,
+    "title": "Minimum Number of Flips to Make the Binary String Alternating",
+    "title_slug": "minimum-number-of-flips-to-make-the-binary-string-alternating",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 1903,
     "title": "Largest Odd Number in String",
     "title_slug": "largest-odd-number-in-string",
