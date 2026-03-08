@@ -981,6 +981,18 @@
     ]
   },
   {
+    "id": 1980,
+    "title": "Find Unique Binary String",
+    "title_slug": "find-unique-binary-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1984,
     "title": "Minimum Difference Between Highest and Lowest of K Scores",
     "title_slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
