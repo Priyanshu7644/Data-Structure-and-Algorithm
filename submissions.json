@@ -1058,6 +1058,16 @@
     ]
   },
   {
+    "id": 3130,
+    "title": "Find All Possible Stable Binary Arrays II",
+    "title_slug": "find-all-possible-stable-binary-arrays-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 3314,
     "title": "Construct the Minimum Bitwise Array I",
     "title_slug": "construct-the-minimum-bitwise-array-i",
