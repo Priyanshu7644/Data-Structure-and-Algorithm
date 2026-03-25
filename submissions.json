@@ -327,6 +327,17 @@
     ]
   },
   {
+    "id": 150,
+    "title": "Evaluate Reverse Polish Notation",
+    "title_slug": "evaluate-reverse-polish-notation",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math",
+      "Stack"
+    ]
+  },
+  {
     "id": 151,
     "title": "Reverse Words in a String",
     "title_slug": "reverse-words-in-a-string",
