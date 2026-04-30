@@ -633,6 +633,19 @@
     ]
   },
   {
+    "id": 350,
+    "title": "Intersection of Two Arrays II",
+    "title_slug": "intersection-of-two-arrays-ii",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Hash Table",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 367,
     "title": "Valid Perfect Square",
     "title_slug": "valid-perfect-square",
