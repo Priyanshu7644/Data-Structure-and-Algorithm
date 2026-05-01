@@ -668,6 +668,16 @@
     ]
   },
   {
+    "id": 414,
+    "title": "Third Maximum Number",
+    "title_slug": "third-maximum-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 416,
     "title": "Partition Equal Subset Sum",
     "title_slug": "partition-equal-subset-sum",
