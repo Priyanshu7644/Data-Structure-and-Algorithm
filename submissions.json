@@ -270,6 +270,17 @@
     ]
   },
   {
+    "id": 102,
+    "title": "Binary Tree Level Order Traversal",
+    "title_slug": "binary-tree-level-order-traversal",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 110,
     "title": "Balanced Binary Tree",
     "title_slug": "balanced-binary-tree",
