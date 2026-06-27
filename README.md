@@ -113,6 +113,7 @@
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | Medium | `Array` `Simulation` `Two Pointers` |
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k) | Medium | `Array` `Hash Table` `Sliding Window` |
 | 2976 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i) | Medium | `Array` `Graph Theory` `Shortest Path` `String` |
+| 3020 | [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset) | Medium | `Array` `Enumeration` `Hash Table` |
 | 3129 | [Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i) | Medium | `Dynamic Programming` `Prefix Sum` |
 | 3130 | [Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii) | Hard | `Dynamic Programming` `Prefix Sum` |
 | 3314 | [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i) | Easy | `Array` `Bit Manipulation` |
