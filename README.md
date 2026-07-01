@@ -79,6 +79,7 @@
 | 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | Medium | `Array` `Counting` `Greedy` `Hash Table` `Heap (Priority Queue)` `Sorting` |
 | 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | Easy | `Greedy` `String` `Two Pointers` |
+| 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | Easy | `Binary Search Tree` `Binary Tree` `Tree` |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | Medium | `Array` `Monotonic Stack` `Stack` |
 | 0743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Heap (Priority Queue)` `Shortest Path` |
