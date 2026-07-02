@@ -95,6 +95,7 @@
 | 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | Medium | `Array` `Divide and Conquer` `Geometry` `Heap (Priority Queue)` `Math` `Quickselect` `Sorting` |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | Medium | `Array` `Binary Search` `Prefix Sum` `Sliding Window` |
 | 1006 | [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial) | Medium | `Math` `Simulation` `Stack` |
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | Medium | `Array` `Binary Search Tree` `Binary Tree` `Monotonic Stack` `Stack` `Tree` |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | Medium | `Array` `Binary Search` |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | Easy | `Stack` `String` |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) | Easy | `Array` `Sorting` |
