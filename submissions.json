@@ -247,6 +247,17 @@
     ]
   },
   {
+    "id": 88,
+    "title": "Merge Sorted Array",
+    "title_slug": "merge-sorted-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 90,
     "title": "Subsets II",
     "title_slug": "subsets-ii",
