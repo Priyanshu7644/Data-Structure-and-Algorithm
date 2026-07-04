@@ -304,6 +304,17 @@
     ]
   },
   {
+    "id": 103,
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "title_slug": "binary-tree-zigzag-level-order-traversal",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 110,
     "title": "Balanced Binary Tree",
     "title_slug": "balanced-binary-tree",
