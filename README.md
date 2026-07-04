@@ -78,6 +78,7 @@
 | 0416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | Medium | `Array` `Dynamic Programming` |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` `Recursion` |
+| 0513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix) | Medium | `Array` `Breadth-First Search` `Dynamic Programming` `Matrix` |
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
 | 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | Easy | `Binary Tree` `Depth-First Search` `Hash Function` `String Matching` `Tree` |
