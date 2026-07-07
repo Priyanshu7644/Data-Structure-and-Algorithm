@@ -1328,6 +1328,18 @@
     ]
   },
   {
+    "id": 2685,
+    "title": "Count the Number of Complete Components",
+    "title_slug": "count-the-number-of-complete-components",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 2976,
     "title": "Minimum Cost to Convert String I",
     "title_slug": "minimum-cost-to-convert-string-i",
