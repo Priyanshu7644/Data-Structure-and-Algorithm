@@ -514,6 +514,19 @@
     ]
   },
   {
+    "id": 200,
+    "title": "Number of Islands",
+    "title_slug": "number-of-islands",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Matrix",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 205,
     "title": "Isomorphic Strings",
     "title_slug": "isomorphic-strings",
