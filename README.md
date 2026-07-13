@@ -39,6 +39,7 @@
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | `Array` `Dynamic Programming` |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | `String` `Two Pointers` |
+| 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder) | Hard | `Breadth-First Search` `Hash Table` `String` |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | Medium | `Array` `Hash Table` `Union-Find` |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | `Array` `Bit Manipulation` |
 | 0139 | [Word Break](https://leetcode.com/problems/word-break) | Medium | `Array` `Dynamic Programming` `Hash Table` `Memoization` `String` `Trie` |
