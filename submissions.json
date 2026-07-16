@@ -1347,6 +1347,18 @@
     ]
   },
   {
+    "id": 1976,
+    "title": "Number of Ways to Arrive at Destination",
+    "title_slug": "number-of-ways-to-arrive-at-destination",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "Graph Theory",
+      "Shortest Path",
+      "Topological Sort"
+    ]
+  },
+  {
     "id": 1980,
     "title": "Find Unique Binary String",
     "title_slug": "find-unique-binary-string",
