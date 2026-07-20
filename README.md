@@ -112,6 +112,7 @@
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | Easy | `Stack` `String` |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) | Easy | `Array` `Sorting` |
+| 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid) | Easy | `Array` `Matrix` `Simulation` |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points) | Easy | `Array` `Geometry` `Math` |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) | Medium | `Array` `Binary Search` `Matrix` `Prefix Sum` |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
