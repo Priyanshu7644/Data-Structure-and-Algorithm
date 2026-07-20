@@ -902,6 +902,18 @@
     ]
   },
   {
+    "id": 547,
+    "title": "Number of Provinces",
+    "title_slug": "number-of-provinces",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 572,
     "title": "Subtree of Another Tree",
     "title_slug": "subtree-of-another-tree",
