@@ -774,6 +774,17 @@
     ]
   },
   {
+    "id": 322,
+    "title": "Coin Change",
+    "title_slug": "coin-change",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 347,
     "title": "Top K Frequent Elements",
     "title_slug": "top-k-frequent-elements",
