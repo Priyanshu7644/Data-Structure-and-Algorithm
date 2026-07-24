@@ -116,6 +116,7 @@
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | Medium | `Array` `Binary Search` |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | Easy | `Stack` `String` |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | Medium | `Dynamic Programming` `String` |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) | Easy | `Array` `Sorting` |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid) | Easy | `Array` `Matrix` `Simulation` |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points) | Easy | `Array` `Geometry` `Math` |

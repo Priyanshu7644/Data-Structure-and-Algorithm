@@ -1255,6 +1255,16 @@
     ]
   },
   {
+    "id": 1143,
+    "title": "Longest Common Subsequence",
+    "title_slug": "longest-common-subsequence",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 1200,
     "title": "Minimum Absolute Difference",
     "title_slug": "minimum-absolute-difference",
