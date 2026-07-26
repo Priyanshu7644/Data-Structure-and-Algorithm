@@ -151,3 +151,14 @@
 | 3507 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i) | Easy | `Array` `Doubly-Linked List` `Hash Table` `Heap (Priority Queue)` `Linked List` `Ordered Set` `Simulation` |
 | 3510 | [Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii) | Hard | `Array` `Doubly-Linked List` `Hash Table` `Heap (Priority Queue)` `Linked List` `Ordered Set` `Simulation` |
 | 3651 | [Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations) | Hard | `Array` `Dynamic Programming` `Matrix` |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
+<!---LeetCode Topics End-->
