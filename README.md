@@ -172,6 +172,7 @@
 ## String
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0583-delete-operation-for-two-strings) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
@@ -181,4 +182,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0583-delete-operation-for-two-strings) |
 <!---LeetCode Topics End-->
