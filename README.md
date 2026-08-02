@@ -167,6 +167,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0290-word-pattern) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
@@ -184,6 +185,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0583-delete-operation-for-two-strings) |
 | [1446-consecutive-characters](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -193,6 +195,7 @@
 ## Counting
 |  |
 | ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
