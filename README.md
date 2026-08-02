@@ -166,6 +166,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0290-word-pattern) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
@@ -179,6 +180,7 @@
 | [0072-edit-distance](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0087-scramble-string) |
 | [0205-isomorphic-strings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0290-word-pattern) |
 | [0583-delete-operation-for-two-strings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0583-delete-operation-for-two-strings) |
 | [1446-consecutive-characters](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1446-consecutive-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
