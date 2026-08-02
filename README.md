@@ -183,6 +183,7 @@
 | [0290-word-pattern](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0290-word-pattern) |
 | [0583-delete-operation-for-two-strings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0583-delete-operation-for-two-strings) |
 | [1446-consecutive-characters](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1446-consecutive-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -212,4 +213,8 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
