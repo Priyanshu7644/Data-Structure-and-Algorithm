@@ -170,6 +170,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0486-predict-the-winner) |
+| [1903-largest-odd-number-in-string](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
@@ -177,6 +178,7 @@
 | [0072-edit-distance](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0087-scramble-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0583-delete-operation-for-two-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
@@ -201,4 +203,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0486-predict-the-winner) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
