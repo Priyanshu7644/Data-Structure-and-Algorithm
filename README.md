@@ -178,6 +178,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0087-scramble-string) |
 | [0205-isomorphic-strings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
@@ -200,6 +201,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0087-scramble-string) |
 | [0486-predict-the-winner](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0486-predict-the-winner) |
@@ -220,4 +222,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
