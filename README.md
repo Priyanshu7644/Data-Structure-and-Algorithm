@@ -209,6 +209,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -226,4 +227,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
