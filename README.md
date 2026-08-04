@@ -209,6 +209,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0486-predict-the-winner) |
 ## Game Theory
@@ -222,13 +223,16 @@
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0143-reorder-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0143-reorder-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0143-reorder-list) |
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
