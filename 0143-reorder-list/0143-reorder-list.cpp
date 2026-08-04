@@ -11,21 +11,39 @@
 class Solution {
 public:
     void reorderList(ListNode* head) {
-        vector<ListNode*>v;
-        while(head){
-            v.push_back(head);
-            head=head->next;
+
+        //middle of a linkedlist
+        ListNode* slow=head;
+        ListNode* fast=head;
+        while(fast->next && fast->next->next){
+            slow=slow->next;
+            fast=fast->next->next;
         }
 
-        int i=0,j=v.size()-1;
-        while(i<j){
-            v[i]->next=v[j];
-            i++;
-            if(i>j) break;
+        //reverse a linkedlist
+        ListNode* curr=slow->next;
+        slow->next=NULL;
 
-            v[j]->next=v[i];
-            j--;
+        ListNode* prev=NULL;
+        while(curr){
+            ListNode* listnext=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=listnext;
         }
-        v[i]->next=NULL;
+
+        //merge two linkedlist
+        ListNode* first=head;
+        ListNode* second=prev;
+        while(second){
+            ListNode* temp1=first->next;
+            ListNode* temp2=second->next;
+            
+            first->next=second;
+            second->next=temp1;
+
+            first=temp1;
+            second=temp2;
+        }
     }
 };
