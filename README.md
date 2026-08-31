@@ -183,6 +183,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0087-scramble-string) |
+| [0125-valid-palindrome](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0290-word-pattern) |
 | [0583-delete-operation-for-two-strings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0583-delete-operation-for-two-strings) |
@@ -237,6 +238,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 ## Linked List
