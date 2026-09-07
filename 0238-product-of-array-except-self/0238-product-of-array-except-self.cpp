@@ -8,9 +8,8 @@ public:
         for(int i=0;i<n;i++){
             ans[i]*=prefix;
             prefix*=nums[i];
-        }
 
-        for(int j=n-1;j>=0;j--){
+            int j=n-i-1;
             ans[j]*=suffix;
             suffix*=nums[j];
         }
