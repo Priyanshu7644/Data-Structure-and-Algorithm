@@ -157,6 +157,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
+| [0238-product-of-array-except-self](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
@@ -263,4 +264,8 @@
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1763-longest-nice-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
