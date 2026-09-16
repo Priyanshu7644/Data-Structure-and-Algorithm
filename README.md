@@ -156,6 +156,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 | [0162-find-peak-element](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
@@ -239,6 +240,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0125-valid-palindrome) |
@@ -270,4 +272,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
