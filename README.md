@@ -159,6 +159,7 @@
 | [0015-3sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 | [0162-find-peak-element](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -261,6 +263,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [1763-longest-nice-substring](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1763-longest-nice-substring) |
 ## Divide and Conquer
@@ -274,6 +277,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
 ## Sorting
 |  |
