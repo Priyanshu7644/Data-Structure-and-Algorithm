@@ -169,6 +169,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0290-word-pattern) |
 | [1763-longest-nice-substring](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1763-longest-nice-substring) |
@@ -183,6 +184,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0087-scramble-string) |
@@ -258,6 +260,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [1763-longest-nice-substring](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1763-longest-nice-substring) |
 ## Divide and Conquer
