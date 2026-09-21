@@ -158,6 +158,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 | [0162-find-peak-element](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
@@ -249,6 +251,7 @@
 | [0061-rotate-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
