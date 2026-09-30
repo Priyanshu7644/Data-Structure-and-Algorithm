@@ -11,14 +11,15 @@ public:
                 b=num;
             }
         }
+        return gcd(a,b);
 
-        int ans=1;
-        while(b!=0){
-            int temp=b;
-            b=a%b;
-            a=temp;
-        }
+        // int ans=1;
+        // while(b!=0){
+        //     int temp=b;
+        //     b=a%b;
+        //     a=temp;
+        // }
 
-        return a;
+        // return a;
     }
 };
