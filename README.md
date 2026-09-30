@@ -182,6 +182,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0009-palindrome-number) |
 | [0486-predict-the-winner](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0486-predict-the-winner) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
