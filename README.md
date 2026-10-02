@@ -162,6 +162,7 @@
 | [0198-house-robber](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -177,6 +178,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [1763-longest-nice-substring](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1763-longest-nice-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -213,6 +215,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
@@ -276,6 +279,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [1763-longest-nice-substring](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1763-longest-nice-substring) |
 ## Bit Manipulation
 |  |
@@ -290,6 +294,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
+| [0347-top-k-frequent-elements](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -302,4 +307,16 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
