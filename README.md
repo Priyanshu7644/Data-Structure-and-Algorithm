@@ -164,6 +164,7 @@
 | [0198-house-robber](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
@@ -299,6 +300,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
+| [0274-h-index](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 ## Number Theory
 |  |
@@ -324,4 +326,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
