@@ -160,6 +160,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
@@ -188,6 +189,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0486-predict-the-winner) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -261,6 +263,7 @@
 | [0125-valid-palindrome](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
