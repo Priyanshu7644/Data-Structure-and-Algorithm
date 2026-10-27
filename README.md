@@ -156,6 +156,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
@@ -178,6 +179,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0290-word-pattern) |
