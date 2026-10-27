@@ -161,6 +161,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
@@ -182,6 +183,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0290-word-pattern) |
@@ -223,6 +225,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -289,6 +292,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [1763-longest-nice-substring](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1763-longest-nice-substring) |
 ## Bit Manipulation
@@ -304,6 +308,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
@@ -335,4 +340,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0274-h-index) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
