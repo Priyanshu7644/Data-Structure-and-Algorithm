@@ -164,6 +164,7 @@
 | [0189-rotate-array](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
@@ -182,6 +183,7 @@
 | [0001-two-sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [1763-longest-nice-substring](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1763-longest-nice-substring) |
@@ -302,6 +304,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 ## Number Theory
