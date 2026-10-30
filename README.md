@@ -353,6 +353,7 @@
 | [0595-big-countries](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1075-project-employees-i) |
 | [1280-students-and-examinations](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
