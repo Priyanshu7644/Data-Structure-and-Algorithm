@@ -367,5 +367,6 @@
 | [1729-find-followers-count](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1757-recyclable-and-low-fat-products) |
+| [1789-primary-department-for-each-employee](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1789-primary-department-for-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
