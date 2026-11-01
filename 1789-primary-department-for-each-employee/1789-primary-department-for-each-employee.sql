@@ -1,11 +1,10 @@
-# Write your MySQL query statement below
-select t1.employee_id,t1.department_id
-from employee t1 join employee t2 on t1.employee_id=t2.employee_id 
-group by employee_id
-having count(*)=1
+SELECT employee_id, department_id
+FROM Employee
+GROUP BY employee_id
+HAVING COUNT(*) = 1
 
-union
+UNION
 
-select t1.employee_id,t1.department_id
-from employee t1
-where t1.primary_flag='Y';
+SELECT employee_id, department_id
+FROM Employee
+WHERE primary_flag = 'Y';
