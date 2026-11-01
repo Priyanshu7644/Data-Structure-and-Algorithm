@@ -159,6 +159,7 @@
 | [0001-two-sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
@@ -268,6 +269,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -308,6 +310,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/0274-h-index) |
