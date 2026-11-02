@@ -366,6 +366,7 @@
 | [1070-product-sales-analysis-iii](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1280-students-and-examinations](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Priyanshu7644/Data-Structure-and-Algorithm/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
